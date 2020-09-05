@@ -3,3 +3,7 @@ def greeting # define greeting method
 end # end method definition
 
 greeting # execute greeting method
+greeting # ibid
+greeting # ibid
+greeting # ibid
+greeting # ibid
