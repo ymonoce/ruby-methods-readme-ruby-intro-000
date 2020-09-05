@@ -1,3 +1,5 @@
-def greeting
-  puts "Hello World"
-end
+def greeting # define greeting method
+  puts "Hello World" # greeting method display Hello World
+end # end method definition
+
+greeting # execute greeting method
